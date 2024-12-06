@@ -1,3 +1,5 @@
 pymongo[srv]
 openai
 python-dotenv
+langchain
+streamlit
