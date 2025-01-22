@@ -1,1 +1,1 @@
-# INFO5940_Final
+# Virtual Character RAG AI
